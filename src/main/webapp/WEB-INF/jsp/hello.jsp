@@ -5,6 +5,6 @@
     <link rel="stylesheet" href="/css/${thema}.css">
 </head>
 <body>
-    <div>Index</div>
+    <div>Hello</div>
 </body>
 </html>
