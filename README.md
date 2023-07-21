@@ -3,7 +3,7 @@
 ## dev 프로파일인 경우
     * `application-dev.yml` 파일의 `site.thema` 설정값 `blue`에 따라... `/css/blue.css` 파일이 적용됩니다.
 ## 기타
-    * `application.yml` 파일의 `site.thema` 설정값 `default`에 따라... `/css/blue.css` 파일이 적용됩니다.
+    * `application.yml` 파일의 `site.thema` 설정값 `default`에 따라... `/css/default.css` 파일이 적용됩니다.
 
 ## application.yml
 
